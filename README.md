@@ -1,0 +1,2 @@
+# mac
+for intel
