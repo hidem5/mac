@@ -1,2 +1,2 @@
 # mac
-for intel
+for intel mac and hackintosh files
